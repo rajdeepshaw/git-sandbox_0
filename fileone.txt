@@ -3,3 +3,5 @@ The first commit to the file. This line will be committed to the repository.
 This changes will be for the next commit.
 
 Skipping the Staging Area and Commiting the fileone.txt directly.
+
+Some more changes.
